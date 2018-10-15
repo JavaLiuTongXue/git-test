@@ -8,5 +8,6 @@ public class GitTest {
     }
     public static void main(String[] args) {
         System.out.println("Hello Word");
+        System.out.println("大家好才是真的好");
     }
 }
